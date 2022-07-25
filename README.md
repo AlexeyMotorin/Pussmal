@@ -14,6 +14,7 @@
 * Приложение погода (https://github.com/Pussmal/testWeather)
 * Трекер полезных привычек (https://github.com/Pussmal/MyHabits)
 * Мои места (https://github.com/Pussmal/Places)
+* Дипломная работа Нетологии (https://github.com/Pussmal/ios-homeworks/tree/features/FullProject)
 * другое (https://github.com/Pussmal?tab=repositories)
 
 ## **Сертификаты:**
