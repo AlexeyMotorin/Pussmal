@@ -2,16 +2,17 @@
 Я Алексей Моторин, IOS-разработчик.
 
 ## **Мой стек:**
-•	Языки программирования: SWIFT
+•	Программирование на Swift
 •	Базы данных: Realm. CoreData, UserDefaults
-•	UIKit, Foundation, Realm, WKWebView, Cacoa
+•	UIKit, MVC, MVP, Unit-Tests, UI-Tests, KISS, DRY
 •	Верстка кодом, AutoLayout, Xib, Storyboards
-•	URLSession, JSON, Codable
-•	Инструментарий: xcode, github
+•	Работа с сетью и клиент-серверное взаимодействие 
+•	Инструментарий: xcode, github, Figma, Sourcetree
 •	Понимание основных паттернов проектирования
+•	Создание адаптивного интерфейса приложения и работа с анимацией
 
 ## **Вот, что я умею:**
-* Приложение погода (https://github.com/Pussmal/testWeather)
+* Квиз (угадываем рейтинг фильма) (https://github.com/Pussmal/MovieQuiz)
 * Трекер полезных привычек (https://github.com/Pussmal/MyHabits)
 * Мои места (https://github.com/Pussmal/Places)
 * Дипломная работа Нетологии (https://github.com/Pussmal/ios-homeworks/tree/features/FullProject)
