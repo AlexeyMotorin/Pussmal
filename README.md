@@ -12,10 +12,10 @@
 •	Создание адаптивного интерфейса приложения и работа с анимацией
 
 ## **Вот, что я умею:**
+* ImageFeed (авторизуем пользователя Unsplash, показываем ленту с фотографиями) (https://github.com/Pussmal/ImageFeed) 
 * Квиз (угадываем рейтинг фильма) (https://github.com/Pussmal/MovieQuiz)
 * Трекер полезных привычек (https://github.com/Pussmal/MyHabits)
 * Мои места (https://github.com/Pussmal/Places)
-* Дипломная работа Нетологии (https://github.com/Pussmal/ios-homeworks/tree/features/FullProject)
 * другое (https://github.com/Pussmal?tab=repositories)
 
 ## **Сертификаты:**
